@@ -18,9 +18,15 @@
   <!-- HERO -->
   <section class="hero">
     <div class="hero-content">
+<<<<<<< HEAD
       <div class="hero-badge">Sekarang mengantarkan di dekat Anda</div>
       <h1>Good Food,<br/><span>Made Easy</span></h1>
       <p>Makanan siap saji dari koki, hanya dengan sekali klik.<br/>Pesan dari restoran ternama dan dapatkan pengiriman cepat.</p>
+=======
+      <div class="hero-badge">Now delivering near you</div>
+      <h1>Good Food,<br/><span>Made Easy</span></h1>
+      <p>Chef Prepared meals, at the click of a button.<br/>Order from top restaurants and get it delivered fast.</p>
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
     </div>
     <div class="hero-visual">
       <span class="float-emoji fe1">🍔</span>
@@ -66,6 +72,7 @@
   <!-- FEATURES -->
   <section class="features">
     <div class="section-head reveal">
+<<<<<<< HEAD
       <span class="section-tag">Mengapa Food Court</span>
       <h2>Semua yang Anda sukai tentang makanan, diantar langsung ke rumah Anda.</h2>
       <p>Mulai dari hidangan yang disiapkan oleh koki hingga tempat makan lokal favorit Anda — kami menghadirkan makanan terbaik langsung ke pintu Anda.</p>
@@ -76,6 +83,17 @@
       <div class="feat-card reveal"><div class="feat-icon">🏪</div><h3>500+ Restaurants</h3><p>Pilihlah dari ratusan restoran lokal. Ada sesuatu untuk semua orang, setiap hari.</p></div>
       <div class="feat-card reveal"><div class="feat-icon">💳</div><h3>Pembayaran Mudah</h3><p>Kartu, uang elektronik, atau uang tunai — berbagai pilihan pembayaran aman di ujung jari Anda.
 </p></div>
+=======
+      <span class="section-tag">Why FoodCourt</span>
+      <h2>Everything you love about food, delivered</h2>
+      <p>From chef-prepared meals to your favourite local spots — we bring the best of food to your door.</p>
+    </div>
+    <div class="features-grid">
+      <div class="feat-card reveal"><div class="feat-icon">🍽️</div><h3>Chef Prepared Meals</h3><p>Restaurant-quality meals by professional chefs, delivered fresh to your doorstep.</p></div>
+      <div class="feat-card reveal"><div class="feat-icon">⚡</div><h3>Fast Delivery</h3><p>Get your food in 30 minutes or less with real-time tracking on every order.</p></div>
+      <div class="feat-card reveal"><div class="feat-icon">🏪</div><h3>500+ Restaurants</h3><p>Choose from hundreds of local restaurants. Something for everyone, every day.</p></div>
+      <div class="feat-card reveal"><div class="feat-icon">💳</div><h3>Easy Payment</h3><p>Card, mobile money, or cash — multiple secure payment options at your fingertips.</p></div>
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
     </div>
   </section>
 
@@ -83,6 +101,7 @@
   <section class="how">
     <div class="section-head reveal">
       <span class="section-tag">Simple Steps</span>
+<<<<<<< HEAD
       <h2>Pesan hanya dengan beberapa ketukan</h2>
       <p>Unduh aplikasinya dan dapatkan makanan favoritmu dalam hitungan menit.</p>
     </div>
@@ -91,6 +110,16 @@
       <div class="step reveal"><div class="step-n">2</div><h3>Browse Menu</h3><p>Jelajahi ratusan restoran di dekat Anda</p></div>
       <div class="step reveal"><div class="step-n">3</div><h3>Place Order</h3><p>Selesaikan pembayaran dengan aman dalam hitungan detik.</p></div>
       <div class="step reveal"><div class="step-n">4</div><h3>Enjoy Food</h3><p>Duduk santai sementara kami mengantarkan makanan hangat ke pintu Anda.</p></div>
+=======
+      <h2>Order in just a few taps</h2>
+      <p>Download the app and get your favourite food in minutes.</p>
+    </div>
+    <div class="steps">
+      <div class="step reveal"><div class="step-n">1</div><h3>Download App</h3><p>Get FoodCourt on iOS or Android for free</p></div>
+      <div class="step reveal"><div class="step-n">2</div><h3>Browse Menu</h3><p>Explore hundreds of restaurants near you</p></div>
+      <div class="step reveal"><div class="step-n">3</div><h3>Place Order</h3><p>Checkout securely in seconds</p></div>
+      <div class="step reveal"><div class="step-n">4</div><h3>Enjoy Food</h3><p>Sit back while we deliver hot food to your door</p></div>
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
     </div>
   </section>
 

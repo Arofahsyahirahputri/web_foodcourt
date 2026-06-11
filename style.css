@@ -4,7 +4,11 @@
   box-sizing: border-box;
 }
     :root {
+<<<<<<< HEAD
       --red: #e81919;
+=======
+      --red: #e81968;
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
       --dark: #1a1a1a;
       --white: #ffffff;
       --gray: #f5f5f5;

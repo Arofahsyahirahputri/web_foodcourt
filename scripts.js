@@ -140,7 +140,11 @@ const restaurants = [
   { name:"Taco Fiesta",       image:"img/tacos.jpeg", rating:"4.6", time:"20 min", tags:["Mexican","Fast Food"],     badge:"Popular",   cat:"Burgers" },
   { name:"Juice Junction",    image:"img/drinks2.jpeg", rating:"4.4", time:"12 min", tags:["Drinks","Smoothies"],      badge:"",          cat:"Drinks" },
   { name:"Grill Masters",     image:"img/beef.jpeg", rating:"4.8", time:"35 min", tags:["Grills","American"],       badge:"Top Rated", cat:"Burgers" },
+<<<<<<< HEAD
   { name:"Vegan Garden",      image:"img/vegan.jpg", rating:"4.5", time:"22 min", tags:["Healthy","Vegan"],         badge:"",          cat:"Healthy" },
+=======
+  { name:"Vegan Garden",      image:"img/vegan.jpeg", rating:"4.5", time:"22 min", tags:["Healthy","Vegan"],         badge:"",          cat:"Healthy" },
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
   { name:"Bubble Tea Bar",    image:"img/drinks.jpeg", rating:"4.6", time:"18 min", tags:["Drinks","Desserts"],       badge:"New",       cat:"Drinks" },
 ];
 
@@ -228,6 +232,7 @@ function submitFeedback() {
    FAQ DATA & RENDER
 ═══════════════════════════════════ */
 const faqs = [
+<<<<<<< HEAD
   { cat:"Orders", q:"Bagaimana cara saya memesan di FoodCourt?", a:"Unduh aplikasi FoodCourt, buat akun, telusuri restoran di dekat Anda, tambahkan item ke keranjang belanja, dan selesaikan pembayaran. Hanya butuh kurang dari 2 menit untuk melakukan pesanan pertama Anda!" },
   { cat:"Orders", q:"Bagaimana saya bisa menjadwalkan pesanan di muka?", a:"Ya! FoodCourt memungkinkan Anda menjadwalkan pesanan hingga 3 hari di muka. Cukup pilih waktu pengiriman yang Anda inginkan saat melakukan checkout." },
   { cat:"Orders", q:"Bisakah saya mengubah atau membatalkan pesanan saya?", a:"Anda dapat mengubah atau membatalkan pesanan Anda dalam 5 menit setelah memesannya. Setelah itu, restoran telah mulai menyiapkan makanan Anda dan pembatalan mungkin tidak memungkinkan." },
@@ -240,6 +245,20 @@ const faqs = [
   { cat:"Account", q:"Bagaimana saya membuat akun FoodCourt?", a:"Unduh aplikasi dan buat akun dengan email atau nomor telepon Anda. Anda juga dapat mendaftar menggunakan akun Google atau Apple untuk akses yang lebih cepat." },
   { cat:"Account", q:"Bagaimana saya mereset password saya?", a:"Di layar login, ketuk 'Lupa Password', masukkan email atau nomor telepon yang terdaftar, dan ikuti instruksi yang dikirimkan kepada Anda." },
   { cat:"Account", q:"Bisakah saya menyimpan beberapa alamat pengiriman?", a:"Ya! Anda dapat menyimpan beberapa alamat pengiriman di profil Anda (rumah, kantor, dll.) dan beralih antara mereka dengan mudah saat melakukan pemesanan." },
+=======
+  { cat:"Orders", q:"How do I place an order on FoodCourt?", a:"Download the FoodCourt app, create an account, browse restaurants near you, add items to your cart, and checkout. It takes less than 2 minutes to place your first order!" },
+  { cat:"Orders", q:"Can I schedule an order in advance?", a:"Yes! FoodCourt allows you to schedule orders up to 3 days in advance. Simply select your preferred delivery time during checkout." },
+  { cat:"Orders", q:"Can I modify or cancel my order?", a:"You can modify or cancel your order within 5 minutes of placing it. After that, the restaurant has begun preparing your food and cancellation may not be possible." },
+  { cat:"Delivery", q:"How long does delivery take?", a:"Most orders are delivered within 30 minutes. Delivery time depends on your location, the restaurant, and current demand. You can track your order in real-time in the app." },
+  { cat:"Delivery", q:"What areas do you deliver to?", a:"FoodCourt currently operates in major cities across the country. Enter your address in the app to check if delivery is available in your area." },
+  { cat:"Delivery", q:"Is there a delivery fee?", a:"Delivery fees vary by restaurant and distance. Some restaurants offer free delivery, and FoodCourt Pro subscribers enjoy free delivery on all orders." },
+  { cat:"Payment", q:"What payment methods do you accept?", a:"We accept credit/debit cards (Visa, Mastercard), mobile money, bank transfers, and cash on delivery in select areas." },
+  { cat:"Payment", q:"Is my payment information secure?", a:"Absolutely. FoodCourt uses industry-standard SSL encryption and never stores your full card details. All payments are processed through PCI-DSS compliant gateways." },
+  { cat:"Payment", q:"How do refunds work?", a:"If there's an issue with your order, contact support within 48 hours. Approved refunds are processed back to your original payment method within 3–5 business days." },
+  { cat:"Account", q:"How do I create a FoodCourt account?", a:"Download the app and sign up with your email or phone number. You can also sign up using your Google or Apple account for faster access." },
+  { cat:"Account", q:"How do I reset my password?", a:"On the login screen, tap 'Forgot Password', enter your registered email or phone number, and follow the instructions sent to you." },
+  { cat:"Account", q:"Can I have multiple delivery addresses saved?", a:"Yes! You can save multiple delivery addresses in your profile (home, work, etc.) and switch between them easily when placing an order." },
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
 ];
 
 let currentFaqCat = 'All';

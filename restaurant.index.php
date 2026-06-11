@@ -7,16 +7,27 @@
     <div class="page-hero-inner">
       <span class="section-tag">500+ Partners</span>
       <h1>Find Your <span>Perfect Meal</span></h1>
+<<<<<<< HEAD
       <p>Telusuri restoran-restoran terbaik di dekat Anda, saring berdasarkan jenis masakan, dan pesan dalam hitungan detik.</p>
+=======
+      <p>Browse top-rated restaurants near you, filter by cuisine, and order in seconds.</p>
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
     </div>
   </div>
 
   <section class="rest-controls">
     <div class="section-head" style="margin-bottom:20px">
+<<<<<<< HEAD
       <h2 style="font-size:1.4rem">Cari Restaurants</h2>
     </div>
     <div class="rest-search-bar">
       <input class="rest-search-input" type="text" id="restSearch" placeholder="🔍  Cari berdasarkan nama atau jenis masakan..." oninput="filterRestaurants()"/>
+=======
+      <h2 style="font-size:1.4rem">Search Restaurants</h2>
+    </div>
+    <div class="rest-search-bar">
+      <input class="rest-search-input" type="text" id="restSearch" placeholder="🔍  Search by name or cuisine..." oninput="filterRestaurants()"/>
+>>>>>>> a2b169ea6fa780c824e1a25eb6e97a2a1ae625b8
     </div>
     <div class="filter-tabs" id="filterTabs">
       <button class="filter-tab active" onclick="setFilter('All',this)">All</button>
